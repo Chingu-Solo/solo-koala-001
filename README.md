@@ -1,2 +1,2 @@
 # solo-koala-001
-Add-project-description-here | Solo Koala | https://chingu.io/ | Twitter: https://twitter.com/ChinguCollabs
+See-your-Chingu-homepage-for-what-project-to-build -> https://chingu.io/ | Solo Koala | Twitter: https://twitter.com/ChinguCollabs
